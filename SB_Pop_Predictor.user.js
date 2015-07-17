@@ -3,7 +3,7 @@
 // @namespace   PopPredictor
 // @include     http://orion.pardus.at/game.php
 
-// @version     1.2.3.5
+// @version     1.2.3.6
 // @grant       none
 // @description Calculates approximate number of ticks of food and water of a starbase based on 
 // visible quantities
