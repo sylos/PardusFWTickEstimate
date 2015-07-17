@@ -9,8 +9,8 @@
 //visible quantities
 // @include        *.pardus.at/starbase_trade.php
 // @include        *.pardus.at/starbase.php
-//@updateURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js
-//@downloadURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js
+// @updateURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js
+// @downloadURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js
 // ==/UserScript==
 
 
