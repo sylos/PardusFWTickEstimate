@@ -3,7 +3,7 @@
 // @namespace   PopPredictor
 // @include     http://orion.pardus.at/game.php
 
-// @version     1.2.3.7
+// @version     1.2.3.7.1
 // @grant       none
 // @description Calculates approximate number of ticks of food and water of a starbase based on 
 // visible quantities
@@ -21,8 +21,6 @@ var food = 0;
 var energy = 1;
 var water = 2;
 var commodity;
-var bestVariable;
-var thingstuffthing;
 var starbaseGoods;
 var foodRow = "baserow1";
 var waterRow = "baserow3";
