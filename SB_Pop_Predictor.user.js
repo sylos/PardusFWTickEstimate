@@ -21,6 +21,7 @@ var food = 0;
 var energy = 1;
 var water = 2;
 var commodity;
+var bestVariable;
 var starbaseGoods;
 var foodRow = "baserow1";
 var waterRow = "baserow3";
