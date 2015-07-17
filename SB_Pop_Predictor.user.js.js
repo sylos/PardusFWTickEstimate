@@ -2,8 +2,9 @@
 // @name        SB Pop Predictor
 // @namespace   PopPredictor
 // @include     http://orion.pardus.at/game.php
-//@updateURL 
-// @version     1
+//@updateURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js.js
+//@downloadURL https://raw.githubusercontent.com/sylos/PardusFWTickEstimate/master/SB_Pop_Predictor.user.js.js
+// @version     1.1
 // @grant       none
 //@description Calculates approximate number of ticks of food and water of a starbase based on
 //visible quantities
